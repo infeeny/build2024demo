@@ -28,6 +28,7 @@ Symphony offers the workflows needed to implement IaC automation. Symphony provi
 
 ## Getting Started
 
+
 Follow step-by-step instructions in the [Getting Started Document](./docs/GETTING_STARTED.md)
 
 ## Symphony Workflows
